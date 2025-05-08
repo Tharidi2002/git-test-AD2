@@ -1,0 +1,9 @@
+#Ignore one file
+test.txt
+
+#Ignore all file using extension
+#(Ignore all txt files)
+# *.txt
+
+#Ignore folders inside all files
+# DTO/
